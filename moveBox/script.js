@@ -1,3 +1,4 @@
+
 gsap.to(".box1",{
     x:"1200px",
     duration:3,
@@ -5,7 +6,7 @@ gsap.to(".box1",{
     rotate:360,
 
     /*we set the repeat property to -1, so it will be repeated indefinitely.*/
-    
+
     repeat:-1, 
 
     //Let's add a new property : yoyo
